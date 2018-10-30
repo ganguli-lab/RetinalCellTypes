@@ -3,7 +3,16 @@
 This repository provides code accompanying the paper "The emergence of multiple retinal cell types through
 efficient coding of natural movies," to appear at NIPS 2018.
 
-Description of code:
+# Code for linear simulation
+
+C1_SPEEDY_WF.pynb: Reconstruction error with respect to RMS firing rate budget for one or two types (fig. 6c)
+
+C3_RATIO_SLIDER_VAR.ipynb: Reconstruction error as a function of the fraction of 'midget' cells at fixed RMS firing rate budget (fig 3d)
+
+C4_RATIO_SLIDER_SPIKES.ipynb: RMS Firing rate busdget as a function of the fraction of 'midget' cells at fixed reconstruction error (fig 3e)
+
+
+# Neural Network simulation
 
 
 
