@@ -7,9 +7,9 @@ efficient coding of natural movies," to appear at NIPS 2018.
 
 C4_RFs.ipynb: Optimal spatio-temporal RFs of one and two types for a given firing rate budget (fig. 3abc)
 
-C3_RATIO_SLIDER_VAR.ipynb: Reconstruction error as a function of the fraction of 'midget' cells at fixed RMS firing rate budget (fig 3d).
+C3_RATIO_SLIDER_VAR.ipynb: Reconstruction error as a function of the fraction of 'midget' cells at fixed Root-Mean-Squared (RMS) firing rate budget (fig 3d).
 
-C4_RATIO_SLIDER_SPIKES.ipynb: RMS Firing rate busdget as a function of the fraction of 'midget' cells at fixed reconstruction error (fig 3e).
+C4_RATIO_SLIDER_SPIKES.ipynb: RMS firing rate budget as a function of the fraction of 'midget' cells at fixed reconstruction error (fig 3e).
 
 C5_ECCENTRICITY.ipynb: Optimal fraction of 'midget' cells and total density of cells as a function of firing rate budget. Comparison with these same quantities measured at all retinal eccentricties (fig. 3f). 1 dimension in space, 1 dimension in time.
 
