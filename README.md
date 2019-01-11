@@ -1,7 +1,7 @@
 # Retinal Cell Types
 
 This repository provides code accompanying the paper "The emergence of multiple retinal cell types through
-efficient coding of natural movies," to appear at NIPS 2018.
+efficient coding of natural movies," presented at NeurIPS 2018: https://www.biorxiv.org/content/early/2018/10/31/458737
 
 ### Optimization of Linear Cell Types (semi-analytical solution using a grid search)
 
